@@ -109,3 +109,9 @@ a,button {
     text-decoration: 0;
     color: #000;
 }
+@media screen and (max-width: 600px){
+    .jeu {
+        width: 250px;
+
+    }
+}
